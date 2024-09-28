@@ -1,0 +1,92 @@
+.parent{
+    justify-content: space-between;
+}
+.hright{
+    justify-content:right;
+    margin-right: 50px;
+}
+.Imagemain{
+    display: flex;
+   justify-content: center;
+   margin-top: 100px;
+
+}
+.flex{
+    display: flex;
+    gap: 10px;
+}
+.Search{
+    width: 450px;
+    height: 45px;
+    padding-left: 10px;
+    border: none;
+    outline: none;
+}
+.ssparent{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.mic{
+    width: 30px;
+    height: 30px;
+}
+.sbox{
+    display: flex;
+    align-items: center;
+    border: .5px solid black;
+    width: fit-content;
+    border-radius: 25px;
+    padding: 0px 10px;
+}
+
+.sbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.button {
+    margin: 10px; 
+    padding: 5px 8px;
+}
+.null{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+
+.footerflex{
+    display: flex;
+    gap: 10px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1; 
+    
+}
+
+.abh{
+    display: flex;
+    justify-content: space-between;
+}
+.nikhil{
+
+    color: blue;
+
+}
+.fpts {
+    margin-right: 20px;
+}
+
+.flex p {
+    margin: 0;
+    padding: 0 10px;
+}
+
